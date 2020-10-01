@@ -31,7 +31,7 @@ import (
 	"fmt"
 	"log"
 
-	pi "github.com/christoofar/gowebapi"
+	pi "github.com/mdrexel-osi/gowebapi"
 )
 
 var cfg = pi.NewConfiguration()
