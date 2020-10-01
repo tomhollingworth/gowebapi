@@ -85,7 +85,7 @@ OSIsoft.REST.Core 1.11.0.967
 ```
 
 ## Examples
-I am keeping a cahce of example code to demonstrate how this client is used over in the [EXAMPLES.md](./EXAMPLES.md) page.
+I am keeping a cacce of example code to demonstrate how this client is used over in the [EXAMPLES.md](./EXAMPLES.md) page.
 
 ## Documentation for API Endpoints
 
